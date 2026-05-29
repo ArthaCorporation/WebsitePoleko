@@ -49,7 +49,7 @@ export default function Navbar() {
             />
           </div>
           <span className="text-white font-serif text-xl font-light tracking-wide text-shadow">
-            PT. Wijaya Kencana Indonesia
+            PT. Poleko
           </span>
         </Link>
 
